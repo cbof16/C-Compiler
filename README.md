@@ -1,6 +1,6 @@
-# Simple Compiler
+# C++ Compiler
 
-This project is a basic compiler developed for an undergraduate course in Program Translation.
+This project is a Simple C++ Compiler.
 
 ## Getting Started
 
